@@ -9,7 +9,7 @@
 
 
 ## Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qerced&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qerced&layout=250x250)
 
 
 
