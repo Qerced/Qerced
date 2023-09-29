@@ -5,7 +5,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-<img src='https://api.iconify.design/devicon/sqlalchemy.svg' height="100" />
+<img src='https://api.iconify.design/devicon/sqlalchemy.svg' height="30" weight="20" />
 
 ## Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qerced&layout=compact)
