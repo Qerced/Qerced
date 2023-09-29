@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qerced&layout=compact)
+
 - 🌱 I’m currently learning ..
 - ⚡ Fun fact: ...
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qerced&layout=compact)
 
 
 
