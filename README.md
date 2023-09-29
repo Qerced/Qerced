@@ -18,20 +18,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 
 -->
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      - 🌱 I’m currently learning ...
-      - ⚡ Fun fact: ...
-      <p>Ваш текст и описание диаграммы.</p>
-    </td>
-    <td valign="top" width="50%">
-      <!-- Диаграмма здесь -->
-      <!--<img src="ссылка_на_изображение_диаграммы.png" alt="Диаграмма"> -->
-     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qerced&layout=compact)
-    </td>
-  </tr>
-</table>
+<div style="display: flex; flex-direction: row; align-items: center;">
+  <div style="flex: 1;">
+    <!-- Ваш текст здесь -->
+    <p>- 🌱 I’m currently learning ..</p>
+    <p>- - ⚡ Fun fact: ...</p>
+  </div>
+  <div style="flex: 1;">
+    <!-- Диаграмма здесь -->
+    <!--<img src="ссылка_на_изображение_диаграммы.png" alt="Диаграмма"> -->
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qerced&layout=compact)
+  </div>
+</div>
+
+
+
+
 
 
 ## Technology stack
