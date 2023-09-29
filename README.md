@@ -1,7 +1,10 @@
 ### Hi there 👋
 
+## Technology stack
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+
+## Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qerced&layout=compact)
-![](https://komarev.com/ghpvc/?username=qerced)
 
 
 
