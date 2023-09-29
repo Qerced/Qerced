@@ -1,5 +1,6 @@
 ### Hi there 👋
-![Uploading 8866b25a23afb5185612095ffc57eca3.gif…]()
+
+![Uploading 8866b25a23afb5185612095ffc57eca3.gif]()
 
 <!--
 **Qerced/Qerced** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
