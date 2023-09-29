@@ -26,12 +26,12 @@ Here are some ideas to get you started:
   </div>
   <div style="flex: 1;">
     <!-- Диаграмма здесь -->
-    <!--<img src="ссылка_на_изображение_диаграммы.png" alt="Диаграмма"> -->
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qerced&layout=compact)
+    <p>- - ⚡ Fun fact: ...</p>
+   
   </div>
 </div>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qerced&layout=compact)
 
 
 
