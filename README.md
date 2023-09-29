@@ -18,20 +18,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 
 -->
-<div style="display: flex; flex-direction: row; align-items: center;">
-  <div style="flex: 1;">
-    <!-- Ваш текст здесь -->
-    <p>- 🌱 I’m currently learning ..</p>
-    <p>- - ⚡ Fun fact: ...</p>
-  </div>
-  <div style="flex: 1;">
-    <!-- Диаграмма здесь -->
-    <p>- - ⚡ Fun fact: ...</p>
-   
-  </div>
-</div>
+
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qerced&layout=compact)
+- 🌱 I’m currently learning ..
+- ⚡ Fun fact: ...
 
 
 
