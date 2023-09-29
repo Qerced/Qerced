@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 
 -->
-- 🌱 I’m currently learning ...                                    .![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qerced&layout=compact)
+- 🌱 I’m currently learning ...                                    .
 - ⚡ Fun fact: ...
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qerced&layout=compact)
 ## Technology stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
