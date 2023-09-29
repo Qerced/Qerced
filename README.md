@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qerced)](https://github.com/qerced/github-readme-stats)
+[![Top Langs](![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qerced&layout=compact))
 <img src="https://i.pinimg.com/originals/88/66/b2/8866b25a23afb5185612095ffc57eca3.gif" width="525" height="300" />
 ![]()
 
